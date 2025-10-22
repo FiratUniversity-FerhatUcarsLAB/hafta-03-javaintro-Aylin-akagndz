@@ -21,4 +21,4 @@ Bu görevdeki tüm Java programları (Toplama Serisi, İki İşlem, Faktöriyel)
   * Hesaplanan İşlem: 5! = 5 x 4 x 3 x 2 x 1
   * Sonuç: 120
 
-Tüm Java dosyaları düzgün çalışmakta ve istenen çıktıları vermektedir.
+Tüm Java dosyaları düzgün çalışmakta ve istenen çıktıları vermektedir. 
